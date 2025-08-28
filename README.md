@@ -78,7 +78,7 @@
     <header class="header-bg relative flex items-center justify-center h-96 rounded-b-3xl overflow-hidden">
         <div class="relative z-10 text-center p-4">
             <h1 class="text-5xl md:text-7xl font-bold text-white mb-4 drop-shadow-lg">
-                <span class="animated-emoji">👨‍🍳</span> Joel Castillo <span class="text-pink-300">&</span> Ashly Aguilar <span class="animated-emoji">👩‍🍳</span>&</span> Kimel Hernandez <span class="animated-emoji">👨‍🍳</span>
+                <span class="animated-emoji">👨‍🍳</span> Joel Castillo  y kimel Hernadez <span class="text-pink-300">&</span> Ashly Aguilar <span class="animated-emoji">👩‍🍳</span>
             </h1>
             <p class="text-xl md:text-2xl text-white drop-shadow-md">
                 ¡Nuestras recetas secretas, de nuestra cocina a tu corazón!
